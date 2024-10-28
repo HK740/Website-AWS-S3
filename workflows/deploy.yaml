@@ -25,4 +25,4 @@ jobs:
         AWS_DEFAULT_REGION : eu-west-1
      
       run: |
-        aws s3 sync . s3://jimmyjohnsmith.s3-website-eu-west-1.amazonaws.com/
+        aws s3 sync . s3://jimmyjohnsmith
